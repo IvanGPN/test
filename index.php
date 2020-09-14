@@ -43,7 +43,7 @@
                         <label for="repeatPass">Повтор пароля: </label>
                         <input type="password" id="repeatPass" class="form-control" name="repeatPass" placeholder="*****">
                     </div>
-                    <input type="submit" class="btn btn-primary" name="send">
+                    <input type="submit" class="btn btn-primary btn-block" name="send">
                 </form>
             </div>
         </div>

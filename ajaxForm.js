@@ -22,7 +22,7 @@ $("#ajaxForm").on("submit", function (event) {
       }
     },
     error: function () {
-      $("#result").data("some error");
+      $("#alert").data("some error");
     },
   });
   event.preventDefault();
